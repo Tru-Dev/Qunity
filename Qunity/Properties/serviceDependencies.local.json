@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "signalr1": {
+      "ignored": "true",
+      "suggestion": "true",
+      "type": "signalr",
+      "connectionId": ""
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql1": {
+      "ignored": "true",
+      "suggestion": "true",
+      "type": "mssql",
+      "connectionId": ""
+    }
+  }
+}
